@@ -276,9 +276,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Your Name** - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
+Shatakshi - shatakshiguha@gmail.com
 
-Project Link: [https://github.com/YOUR_USERNAME/stock-price-prediction](https://github.com/YOUR_USERNAME/stock-price-prediction)
+Project Link: [https://github.com/Shatakshi2204/stock-price-prediction](https://github.com/Shatakshi2204/stock-price-prediction)
 
 ---
 
