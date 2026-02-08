@@ -64,17 +64,6 @@
 
 ---
 
-## 🎬 Demo
-
-> **Note**: Add screenshots here after running the app
-
-```bash
-# Run the app and take screenshots of:
-# 1. Historical Analysis page
-# 2. Prediction page with results
-# 3. Session Log page
-```
-
 ---
 
 ## 🚀 Installation
